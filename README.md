@@ -1,6 +1,7 @@
 # FTP-Server
 Developed a socket-based FTP server supporting multiple clients with login/sign up functionality, file handling, and threading for concurrent access.
 
+#### Setup & Execution
 1. First run the server.py script *(Note: need python 3.13.3 or higher installed)*.
 2. Then run the client.py code.
 > **Note:** If the client and server are running on the same machine, set the host to `localhost`/`127.0.0.1`. If they are on different machines within a network, update the host to the server's LAN IP (e.g., `192.168.x.x`).
